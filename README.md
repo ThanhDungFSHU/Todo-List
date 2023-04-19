@@ -15,6 +15,17 @@
 - Removing a task
 - Toggle show incompleted tasks only
 
+---
+
+1. ProfilePage
+2. NavBar
+3. SideMenu
+4. CoworkerList
+5. ProfilePageMain
+6. ProjectDetail
+7. TaskList
+8. TaskItem
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
